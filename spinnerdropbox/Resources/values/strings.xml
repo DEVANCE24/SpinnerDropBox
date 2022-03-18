@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">spinnerdropbox</string>
+    <string name="planet_prompt">Choose a planet</string>
+	<string-array name="planets_array">
+		<item>MERCURY</item>
+		<item>VENUS</item>
+		<item>EARTH</item>
+		<item>MARS</item>
+		<item>JUPITER</item>
+		<item>SATURN</item>
+		<item>URANUS</item>
+		<item>NEPTUNE</item>
+	</string-array>
+</resources>
